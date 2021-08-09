@@ -1,4 +1,5 @@
 // Custom.scss
+// Do not edit the files in node_modules otherwise there will be a mismatch between CSS and Sass
 
 // 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
 @import "../node_modules/bootstrap/scss/functions";
@@ -38,4 +39,3 @@
     src: url(/files/fonts/liberation_mono/LiberationMono-Bold.ttf) format(truetype);
     src: url(/files/fonts/liberation_mono/LiberationMono-BoldItalic.ttf) format(truetype)
 }
-
